@@ -1,0 +1,9 @@
+# 해당 줄은 주석 처리, 전부 주석 처리하여 명령어 실습.
+# /GCD.py -> MyNewRepo 바로 아래의 GCD.py 무시
+# /* -> MyNewRepo 바로 아래의 모든 파일과 폴더 무시
+# /*.py -> MyNewRepo 바로 아래의 .py 파일만 무시
+# !*.py -> .py 파일을 무시 대상에서 제외
+# GCD?.py -> GCD1.py, GCD2.py 등을 무시
+# GCD[12].py -> GCD1.py와 GCD2.py만 무시
+# /images/ -> 저장소 루트의 images 폴더와 그 안의 모든 내용 무시
+# /doc/**/*.txt -> doc 바로 아래와 모든 하위 폴더의 .txt 파일 무시
